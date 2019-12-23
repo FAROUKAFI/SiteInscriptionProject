@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(170, 219, 231);
+    border: 4px black ridge;
+}
+.c1{
+    margin :20px;
+padding: 5px;
+border : 4px gray ridge ;
+
+border-radius: 5px 5px 5px 5px;
+height:40px;
+width: 20%;
+}
+.char{
+    font-weight: bolder;
+    font-size:30px;
+    font-family: sans-serif;
+    margin : 10px;
+padding: 15px
+}
+.c11{
+    margin :10px;
+padding: 25px;
+border : 2px gray ridge ;
+
+border-radius: 10px 10px 10px 10px;
+height:20px;
+width: 10%;
+}
+.c{
+    margin :10px;
+    border : 2px black ridge
+}

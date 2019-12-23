@@ -1,0 +1,29 @@
+body{
+    
+    border: 4px black ridge;
+}
+.c1{
+    margin :10px;
+padding: 5px;
+border : 4px gray ridge ;
+
+border-radius: 5px 5px 5px 5px;
+height:40px;
+width: 20%;
+}
+.c{
+    margin :10px;
+    border : 2px black ridge
+}
+
+.c2{
+    margin :10px;
+    padding: 5px;
+    border : 4px gray ridge ;
+    
+    border-radius: 5px 5px 5px 5px;
+    height:40px;
+    width: 20%;
+    float:center;
+
+}

@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(170, 219, 231);
+    border: 4px black ridge;
+}
+.c{
+    margin :10px;
+    border : 2px black ridge
+}
+.c1{
+    margin :20px;
+padding: 5px;
+border : 4px gray ridge ;
+
+border-radius: 5px 5px 5px 5px;
+height:40px;
+width: 20%;
+}
+.char{
+    font-weight: bolder;
+    font-size:30px;
+    font-family: sans-serif;
+    margin : 10px;
+padding: 15px
+}
+.char1{
+    font-weight: normal;
+    font-size:20px;
+    font-family: sans-serif;
+    margin : 30px;
+padding: 15px
+}
